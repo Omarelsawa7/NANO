@@ -9,7 +9,6 @@ This project was undertaken to practice dense component routing and manage stric
 *   **EDA Tool:** Altium Designer
 *   **Microcontroller:** ATmega328P (AVR 8-bit)
 *   **USB-to-Serial Converter:** CH340C
-*   **Power Management:** Onboard voltage regulation for 5V.
 *   **Form Factor:** Standard Arduino Nano footprint.
 *   **PCB Details:** 2-Layer board.
 
