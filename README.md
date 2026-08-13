@@ -16,7 +16,7 @@ This project was undertaken to practice dense component routing and manage stric
 *   **PCB Details:** 2-Layer board.
 
 ## Repository Contents
-*   **`Nano.PrjPcb`, `Sheet1.SchDoc`, `NANO PCB.PcbDoc`:** The original Altium Designer project and source files.
+*   **`Nano.PrjPcb`, `schematic.SchDoc`, `NANO PCB.PcbDoc`:** The original Altium Designer project and source files.
 *   **`Nano.pdf`:** The complete schematic in PDF format for quick viewing without needing EDA software.
 *   **`BOM.xlsx`:** The Bill of Materials, listing all necessary components for assembly.
 *   **`Gerber files.rar`:** The complete Gerber and NC Drill files ready for fabrication. *(Note: If sending to a fab house, extracting and converting to .zip is usually recommended).*
