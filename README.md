@@ -5,8 +5,6 @@ This repository contains the complete Altium Designer project files, manufacturi
 ##  Project Overview
 This project was undertaken to practice dense component routing and manage strict footprint constraints while designing a reliable, fully functional microcontroller board. The design was created from scratch using **Altium Designer** and successfully passed all Design Rule Checks (DRC) with zero errors or warnings.
 
-*(Optional: You can insert your 3D render image here later)*
-
 ##  Key Specifications & Components
 *   **EDA Tool:** Altium Designer
 *   **Microcontroller:** ATmega328P (AVR 8-bit)
