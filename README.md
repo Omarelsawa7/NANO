@@ -19,7 +19,7 @@ This project was undertaken to practice dense component routing and manage stric
 *   **`Nano.PrjPcb`, `schematic.SchDoc`, `NANO PCB.PcbDoc`:** The original Altium Designer project and source files.
 *   **`Nano.pdf`:** The complete schematic in PDF format for quick viewing without needing EDA software.
 *   **`BOM.xlsx`:** The Bill of Materials, listing all necessary components for assembly.
-*   **`Gerber files.rar`:** The complete Gerber and NC Drill files ready for fabrication. *(Note: If sending to a fab house, extracting and converting to .zip is usually recommended).*
+*   **`Gerber files.rar`:** The complete Gerber and NC Drill files ready for fabrication.
 
 ##  Manufacturing & Fabrication
 The board is ready for fabrication. You can download the Gerber archive and upload it directly to any standard PCB manufacturer (e.g., JLCPCB, PCBWay). 
